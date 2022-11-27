@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://madewithvuejs.com/mevn-cli" rel="noopener">
-    <img src="./docs/img/mevn-cli.jpg" alt="mevn-cli">
+    <img src="./docs/img/mevn-cli.jpg" alt="mevn-cli" width="400">
   </a>
 </div>
 
@@ -42,7 +42,7 @@ Este proyecto se basa en un mantenedor (también llamado CRUD) que utiliza uno d
 
 <div align="center">
   <a href="https://www.arkasoftwares.com/mevn-stack-development" rel="noopener">
-    <img src="./docs/img/mevn-stack-functions.png" alt="mevn-stack-functions">
+    <img src="./docs/img/mevn-stack-functions.png" alt="mevn-stack-functions" width="700">
   </a>
 </div>
 
@@ -96,19 +96,19 @@ Ahora entrar al enlace que aparece en consola. [http://127.0.0.1:8080/](http://1
 
 ### Pantalla principal
 
-  <img src="./docs/img/todolist_main.png" alt="todolist_main">
+  <img src="./docs/img/todolist_main.png" alt="todolist_main" width="400">
 
 ---
 
 ### Un item agregado, escribiendo el segundo...
 
-  <img src="./docs/img/todolist_adding_two.png" alt="todolist_adding_two">
+  <img src="./docs/img/todolist_adding_two.png" alt="todolist_adding_two" width="400">
 
 ---
 
 ### Dos items agregados
 
-  <img src="./docs/img/todolist_two_items.png" alt="todolist_two_items">
+  <img src="./docs/img/todolist_two_items.png" alt="todolist_two_items" width="400">
 
 ## 🚀 Producción <a name = "deployment"></a>
 
@@ -123,7 +123,7 @@ Se está investigando la mejor manera de pasar todo a producción.
 
 <div align="center">
   <a href="https://www.fiverr.com/stackcircle/create-mevn-stack-applications-for-your-business" rel="noopener">
-    <img src="./docs/img/create-mevn-stack-applications-for-your-business.jpg.webp" alt="create-mevn-stack-applications-for-your-business">
+    <img src="./docs/img/create-mevn-stack-applications-for-your-business.jpg.webp" alt="create-mevn-stack-applications-for-your-business" width="700">
   </a>
 </div>
 
